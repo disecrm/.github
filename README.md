@@ -1,3 +1,7 @@
+[<img src="dashboard_new.png" alt="Dise Telegram CRM" />](https://www.trydise.com/)
+
+---
+
 At Dise, we’re reinventing customer management solutions for the messenger-first world and AI era—building a single platform for people and AI agents to collaborate on DMs. Sales teams can finally turn messy chats in messengers and social media into structured pipelines and spin up AI SDRs to automate the routine. AI agents get structured access to client chats and internal data—turning messaging chaos into programmable workflows.
 
 We’ve already built the best all-in-one Telegram CRM software on the market—with AI summaries, auto follow-ups, auto sequences, batch sending, Telegram outreach, tasks, teamwork, and more. It can serve perfectly as a Web3 CRM, since in B2B crypto sales, all communication happens in Telegram. We know the crypto sales problem firsthand: in our previous business in the space, we had thousands of chats with clients in our Telegram inbox. Our early adopters say it’s what they’ve been waiting for for years.
