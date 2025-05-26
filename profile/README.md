@@ -1,4 +1,4 @@
-[<img src="dashboard_new.png" alt="Dise Telegram CRM" />](https://www.trydise.com/)
+[<img src="dashboard_new.png" alt="Dise Telegram CRM" />](https://www.disecrm.com/)
 
 ---
 
@@ -8,4 +8,4 @@ We’ve already built the best all-in-one Telegram CRM software on the market—
 
 With AI evolving at lightning speed, we know we won’t solve every use case alone. That’s why we will open up Dise as a platform for deploying third-party agents—so others can build agents on top of our messenger-native foundation, with unique access to chats and aggregated client data.
 
-For now, check out [Telegram CRM](https://www.trydise.com/)—and stay tuned.
+For now, check out [Telegram CRM](https://www.disecrm.com/)—and stay tuned.
